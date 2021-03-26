@@ -1,0 +1,2 @@
+Uygulamayı en başta Windows PowerShellden çalıştırmıştık fakat kodlarımızı Command Prompt (cmd) aracılığıyla açıp komutları yazdırırsak wifi şifresinin olduğu txt dosyası daha temiz çıkmakta. Cmd'yi kullanmanızı tavsiye ederim.
+Powershell 'i cmd'ye çevirmek için 15. satırdaki powershell kodunu cmdye çeviriniz.
